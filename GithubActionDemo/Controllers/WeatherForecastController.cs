@@ -11,6 +11,7 @@ namespace GithubActionDemo.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {        
+        //build 01
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
